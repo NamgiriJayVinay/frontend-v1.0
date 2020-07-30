@@ -1,0 +1,100 @@
+#box-5 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/yel+b.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-7 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/yel+b.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-6 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/red.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-5 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/red.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-4 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/blue.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-1 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/pink.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/xxxx.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-8 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/liq.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/liq.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+#box-3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../../assets/img/liq.png);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: arial black;
+  font-size: 50px;
+  color: white;
+  margin: 0px;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
